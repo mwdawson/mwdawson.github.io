@@ -1,35 +1,5 @@
 ## Welcome!
 
-I'm a Data Scientist at Google and have wide interests from Machine Learning to Classical Statistics.
+I'm one of the lucky people to be involved in the exciting and devloping field of Data Science. Currently I work as a Data Scientist / Quantitative Analyst at [Google](https://www.youtube.com/watch?v=dQw4w9WgXcQ). My interests are broad but include Machine Learning, Applied Statistical Modeling, and Statistical Consulting.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mwdawson/mwdawson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
