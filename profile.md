@@ -6,10 +6,8 @@ Just a little bit about my background; I'm also on [LinkedIn](https://www.linked
 - **Ph.D. in Biostatistics** from University of California, Davis
   - Dissertation title: _Dynamic Distribution Models for Functional Data_
   - Adviser: Hans-Georg Mueller
-  - June, 2017
 - **B.S. in Mathematics** from California State University, Channel Islands
   - Emphasis: Mathematics Education
-  - December, 2010
 
 ### Professional Experience
 
