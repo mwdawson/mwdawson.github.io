@@ -1,6 +1,6 @@
 ## Profile
 
-Just a little bit about my background; I'm also on [LinkedIn](https://www.linkedin.com/in/matthew-dawson-268b06a1/) if you want to connect!
+Just a little bit about my background. This is the condensed version; I'm also on [LinkedIn](https://www.linkedin.com/in/matthew-dawson-268b06a1/) if you want to connect and learn more!
 
 ### Education
 - **Ph.D. in Biostatistics** from University of California, Davis
