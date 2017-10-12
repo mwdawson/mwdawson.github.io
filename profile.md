@@ -5,7 +5,7 @@ Just a little bit about my background. This is the condensed version; I'm also o
 ### Education
 - **Ph.D. in Biostatistics** from University of California, Davis
   - Dissertation title: _Dynamic Distribution Models for Functional Data_
-  - Adviser: Hans-Georg Mueller
+  - Adviser: Hans-Georg M&uuml;ller
 - **B.S. in Mathematics** from California State University, Channel Islands
   - Emphasis: Mathematics Education
 
