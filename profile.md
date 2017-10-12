@@ -10,5 +10,9 @@ Just a little bit about my background; I'm also on [LinkedIn](https://www.linked
   - Emphasis: Mathematics Education
 
 ### Professional Experience
+- **Data Scientist / Quantitative Analyst** at Google
+- **Graduate Student Researcher and Statistical Consultant** at UC Davis
+- **Data Scientist Intern** at Allstate Insurance
+- **Statistician Intern** at Prescio Consulting
 
 ### Technical Skills
