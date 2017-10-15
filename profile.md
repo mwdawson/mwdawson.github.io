@@ -3,23 +3,23 @@
 Just a little bit about my background. This is the condensed version; I'm also on [LinkedIn](https://www.linkedin.com/in/matthew-dawson-268b06a1/) if you want to connect and learn more!
 
 ### Education
-- [2017] **Ph.D. in Biostatistics** from University of California, Davis
+- **Ph.D. in Biostatistics** from University of California, Davis [2017]
   - Dissertation title: _Dynamic Distribution Models for Functional Data_
   - Adviser: Hans-Georg M&uuml;ller
-- [2010] **B.S. in Mathematics** from California State University, Channel Islands
+- **B.S. in Mathematics** from California State University, Channel Islands [2010]
   - Emphasis: Mathematics Education
 
 ### Professional Experience
-- [08/17 - Present] **Google** 
+- **Google** [08/17 - Present] 
   - Title: Data Scientist / Quantitative Analyst
   - Location: Mountain View, California
-- [09/12 - 06/17] **UC Davis** 
+- **UC Davis** [09/12 - 06/17] 
   - Title: Graduate Student Researcher / Statistical Consultant
   - Location: Davis, California
-- [06/16 - 09/16] **Allstate Insurance** 
+- **Allstate Insurance** [06/16 - 09/16] 
   - Title: Data Scientist Intern
   - Location: Menlo Park, California
-- [06/14 - 09/14] **Prescio Consulting** 
+- **Prescio Consulting** [06/14 - 09/14] 
   - Title: Statistician Intern
   - Location: Casa Grande, Arizona
 
