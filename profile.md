@@ -13,8 +13,17 @@ Just a little bit about my background. This is the condensed version; I'm also o
 - **Google** [08/17 - Present]
   - Title: Data Scientist / Quantitative Analyst
   - Location: Mountain View, California
-- **Graduate Student Researcher / Statistical Consultant** at UC Davis
-- **Data Scientist Intern** at Allstate Insurance
-- **Statistician Intern** at Prescio Consulting
+- **UC Davis** [09/12 - 06/17]
+  - Title: Graduate Student Researcher / Statistical Consultant
+  - Location: Davis, California
+- **Allstate Insurance** [06/16 - 09/16]
+  - Title: Data Scientist Intern
+  - Location: Menlo Park, California
+- **Prescio Consulting** [06/14 - 09/14]
+  - Title: Statistician Intern
+  - Location: Casa Grande, Arizona
 
 ### Technical Skills
+- **Applied Statistics**
+- **Machine Learning**
+- **Software**
