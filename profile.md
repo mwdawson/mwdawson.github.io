@@ -10,7 +10,9 @@ Just a little bit about my background. This is the condensed version; I'm also o
   - Emphasis: Mathematics Education
 
 ### Professional Experience
-- **Data Scientist / Quantitative Analyst** at Google
+- **Google** [08/17 - Present]
+  - Title: Data Scientist / Quantitative Analyst
+  - Location: Mountain View, California
 - **Graduate Student Researcher / Statistical Consultant** at UC Davis
 - **Data Scientist Intern** at Allstate Insurance
 - **Statistician Intern** at Prescio Consulting
