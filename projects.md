@@ -10,6 +10,8 @@ I've been involved in a number of projects ranging from Alzheimer's Disease to M
 
 ### Publications
 
+- Dvorak et al., "Genome sequence of the progenitor of the wheat D-genome Aegilops tauschii," to appear in _Nature_ (2017)
+
 - Jorgensen, C., Luo, M., Ramasamy, R., Dawson, M., Distelfeld, A., Gill, B., Korol, A., Dvorak, J., "A reassessment of the origin of wheat chromosome 4A and emmer domestication facilitated by a high-density SNP genetic map of wild emmer from the Karaca Dag region of Turkey," _Frontiers in Plant Science_ (2017)
 
 - Dawson, M. and M&uuml;ller, H.-G., "Dynamic Modeling of Conditional Quantile Trajectories, with Application to  Longitudinal Snippet Data," to appear in _Journal of the American Statistical Association_ (2017)
