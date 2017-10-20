@@ -25,5 +25,16 @@ Just a little bit about my background. This is the condensed version; I'm also o
 
 ### Technical Skills
 - **Applied Statistics**
+  - Regression, Linear, Mixed Linear, and Generalized Linear Models
+  - Longitudinal and Functional Data Analysis
+  - Dimension Reduction including PCA
+  - Estimation Techniques and Hypothesis Testing
+  - Data Visualization and Exploratory Data Analysis
+  - A/B Testing
 - **Machine Learning**
+  - Tree-based methods including Random Forest and Boosting Machines
+  - Clustering and Classification
+  - Model Validation
+  - Model Stacking
 - **Software**
+  - R and Python
