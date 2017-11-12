@@ -24,13 +24,10 @@ Just a little bit about my background. This is the condensed version; I'm also o
   - Location: Casa Grande, Arizona
 
 ### Technical Skills
-- **Applied Statistics**
-  - Regression, Linear, Mixed Linear, and Generalized Linear Models
-  - Longitudinal and Functional Data Analysis
-  - Dimension Reduction including PCA
-  - Estimation Techniques and Hypothesis Testing
-  - Data Visualization and Exploratory Data Analysis
-  - A/B Testing
+- **Applied Statistics and Machine Learning**
+
+I'm very experienced (both in theory and in practice) with tools in Applied Statistics and Machine Learning. Without giving a complete laundry list, this includes standard methods like (mixed) (generalized) linear models, statistical testing, dimension reduction, and tree-based methods. I also have expertise in longitudinal and functional data analysis.
+
 - **Machine Learning**
   - Tree-based methods including Random Forest and Boosting Machines
   - Clustering and Classification
