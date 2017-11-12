@@ -31,7 +31,7 @@ I'm very experienced (both in theory and in practice) with tools in Applied Stat
 
 #### Programming
 
-For data analysis my primary language is R, though I'm also familiar with Python. I also have some experience with SQL, C++, and JavaScript, though I wouldn't consider myself an expert.
+For data analysis my primary language is R, though I'm also familiar with Python. I have some experience with SQL, Hive, Go, C++, and JavaScript, though I wouldn't consider myself an expert.
 
 #### Communication
 
