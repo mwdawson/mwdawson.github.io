@@ -10,7 +10,7 @@ I've been involved in a number of projects ranging from Alzheimer's Disease to M
 
 ### Publications
 
-- Luo, et al., "Genome sequence of the progenitor of the wheat D genome Aegilops tauschii," _Nature_ (2017)
+- Luo, M.-C. et al., "Genome sequence of the progenitor of the wheat D genome Aegilops tauschii," _Nature_ (2017)
 
 - **Dawson, M.** and M&uuml;ller, H.-G., "Dynamic Modeling of Conditional Quantile Trajectories, with Application to  Longitudinal Snippet Data," _Journal of the American Statistical Association_ (2017)
 
