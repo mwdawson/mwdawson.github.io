@@ -25,14 +25,14 @@ Just a little bit about my background. This is the condensed version; I'm also o
 
 ### Skills
 
-#### Applied Statistics and Machine Learning
+**Applied Statistics and Machine Learning**
 
-I'm very experienced (both in theory and in practice) with tools in Applied Statistics and Machine Learning. Without giving a complete laundry list, this includes standard methods like (mixed) (generalized) linear models, statistical testing, dimension reduction, and tree-based methods. I also have expertise in longitudinal and functional data analysis.
+I'm very experienced, both in theory and in practice, with tools in Applied Statistics and Machine Learning. Without giving a complete laundry list, this includes standard methods like (generalized) linear models and variants, statistical testing, dimension reduction, machine learning models for classification, feature/metric engineering, and model validation. I also have expertise in longitudinal and functional data analysis.
 
-#### Programming
+**Programming**
 
-For data analysis my primary language is R, though I'm also familiar with Python. I have some experience with SQL, Hive, C++, and JavaScript.
+For data analysis my primary language is R, though I'm also familiar with Python. I also have some experience with SQL, Hive, C++, Go, and JavaScript.
 
-#### Communication
+**"Soft" Skills**
 
-My communication skills are strong, as it has always been a crucial part of my job to explain technical results to non-technical stakeholders. I've also taught courses at the university level and given presentations at conferences and meetings.
+My communication skills are strong, as it has always been a crucial part of my job to explain technical results to non-technical stakeholders. I've also taught courses at the university level and given presentations at conferences and meetings. I'm used to working independently on projects, but I think cooperation between teams/members is crucial in data science. 
